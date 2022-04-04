@@ -14,6 +14,7 @@
 		F852655627FB5333006489CA /* TopSecret.swift in Sources */ = {isa = PBXBuildFile; fileRef = F852655527FB5333006489CA /* TopSecret.swift */; };
 		F852655827FB53A8006489CA /* FeatureA.swift in Sources */ = {isa = PBXBuildFile; fileRef = F852655727FB53A8006489CA /* FeatureA.swift */; };
 		F852655A27FB53DC006489CA /* FeatureB.swift in Sources */ = {isa = PBXBuildFile; fileRef = F852655927FB53DC006489CA /* FeatureB.swift */; };
+		F852655C27FB5402006489CA /* FeatureC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F852655B27FB5402006489CA /* FeatureC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		F852655527FB5333006489CA /* TopSecret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopSecret.swift; sourceTree = "<group>"; };
 		F852655727FB53A8006489CA /* FeatureA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureA.swift; sourceTree = "<group>"; };
 		F852655927FB53DC006489CA /* FeatureB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureB.swift; sourceTree = "<group>"; };
+		F852655B27FB5402006489CA /* FeatureC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		F852653B27FB52C5006489CA = {
 			isa = PBXGroup;
 			children = (
+				F852655B27FB5402006489CA /* FeatureC.swift */,
 				F852654627FB52C5006489CA /* RemovingFileDemo */,
 				F852654527FB52C5006489CA /* Products */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F852655C27FB5402006489CA /* FeatureC.swift in Sources */,
 				F852654A27FB52C5006489CA /* ContentView.swift in Sources */,
 				F852655627FB5333006489CA /* TopSecret.swift in Sources */,
 				F852655827FB53A8006489CA /* FeatureA.swift in Sources */,
